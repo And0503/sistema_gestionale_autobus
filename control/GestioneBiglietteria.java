@@ -78,10 +78,11 @@ public class GestioneBiglietteria {
 		
 		Date dataCorrente = Date.valueOf(currentDate);
 		Time oraCorrente = Time.valueOf(currentTime);
-		
-		if(data.before(dataCorrente)) {
-			throw new OperationException("Data non valida");
-		}
+
+		//Decommentare le istruzioni qui sotto se si desidera un controllo sulla data inserita rispetto a quella corrente
+		//if(data.before(dataCorrente)) {
+		//	throw new OperationException("Data non valida");
+		//}
 		
 		if(numPosti <= 0 ) {
 			throw new OperationException("Numero posti non valido");
