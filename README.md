@@ -23,10 +23,10 @@ Sistema gestionale per una compagnia di trasporti interregionali, che supporta l
 | File / Package | Descrizione |
 |----------------|-------------|
 | `boundary` | Interfacce testuali e grafiche |
-| `control/` | Logica applicativa |
-| `database/` | Contiene le classi DAO e `DBManager` per la gestione della connessione al database |
-| `entity/` | Definizione delle entità del dominio |
-| `exception/` | Eccezioni personalizzate |
+| `control` | Logica applicativa |
+| `database` | Contiene le classi DAO e `DBManager` per la gestione della connessione al database |
+| `entity` | Definizione delle entità del dominio |
+| `exception` | Eccezioni personalizzate |
 | `test` | Test JUnit per le principali funzionalità del sistema |
 | `README.md` | Documentazione del progetto |
 
