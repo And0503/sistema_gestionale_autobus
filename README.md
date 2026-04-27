@@ -1,5 +1,5 @@
 # sistema_gestionale_autobus
-Sistema gestionale per una compagnia di autobus interregionali. Supporta la prenotazione con invio automatico di email di conferma e resoconto, oltre che l’emissione di biglietti, includendo controlli sulle disponibilità di posti e bagagli. Consente l'invio automatico di email di report delle vendite biglietti dell'ultima settimana. Comprende una duplice interfaccia distinta per operatori e utenti finali, con funzionalità dedicate.
+Sistema gestionale per una compagnia di autobus interregionali. Supporta la prenotazione con invio automatico di email di conferma e resoconto, oltre che l’emissione di biglietti, includendo controlli sulle disponibilità di posti e bagagli. Consente l'invio automatico di email di report delle vendite dei biglietti dell'ultima settimana. Comprende una duplice interfaccia distinta per operatori e utenti finali, con funzionalità dedicate.
 
 Include:
 1. Interfaccia grafica sviluppata con WindowBuilder o in alternativa interfaccia testuale
