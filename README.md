@@ -56,5 +56,7 @@ Include:
     - Classpath
     - h2-2.1.214
 5. Importare il progetto nella cartella di lavoro
-6. Eseguire il programma
+6. Eseguire il programma avviando:
+    - `MainMenu.java` per interfaccia grafica
+    - `BoundaryCliente.java`, `BoundaryImpiegato.Java` o `BoundaryTempo.java`, a seconda dei casi, per interfaccia testuale
 ---
