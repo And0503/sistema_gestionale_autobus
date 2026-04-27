@@ -7,3 +7,34 @@ Sistema gestionale per una compagnia di trasporti interregionali, che supporta l
 - Claudia Castellano - https://github.com/ClaudiaCastellano
 - Gaetano Ruocco - https://github.com/gaetanor
 ---
+
+---
+## ⚙️ Guida tecnica
+---
+
+---
+### 🛠️ Tecnologie
+- Eclipse
+---
+
+---
+### 📁 Struttura del repo
+
+| File / Package | Descrizione |
+|----------------|-------------|
+| `database/` | Contiene le classi DAO e `DBManager` per la gestione della connessione al database |
+| `entity/` | Definizione delle entità del dominio |
+| `control/` | Logica applicativa |
+| `boundary` | Interfacce testuali e grafiche |
+| `exception/` | Eccezioni personalizzate |
+| `test` | Test JUnit per le principali funzionalità del sistema |
+| `README.md` | Documentazione del progetto |
+
+---
+
+---
+### 🚀 Come eseguire il progetto
+1. Installare ed aprire Eclipse
+2. Creare una cartella di lavoro
+3. Installare H2
+---
