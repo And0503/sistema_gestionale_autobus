@@ -14,7 +14,10 @@ Sistema gestionale per una compagnia di trasporti interregionali, che supporta l
 
 ---
 ### 🛠️ Tecnologie
-- Eclipse
+- Eclipse 2021-12 4.22.0
+- Java 1.8.0_311
+- H2 2.1.214 (embedded)
+- Junit 4.13.2
 ---
 
 ---
