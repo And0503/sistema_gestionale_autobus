@@ -32,6 +32,7 @@ Sistema gestionale per una compagnia di trasporti interregionali, che supporta l
 | `exception` | Eccezioni personalizzate |
 | `test` | Test JUnit per le principali funzionalità del sistema |
 | `README.md` | Documentazione del progetto |
+| `Progettazione.pdf` | Documento di analisi dei requisiti, progettazione e testing |
 
 ---
 
