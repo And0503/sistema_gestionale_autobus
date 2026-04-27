@@ -37,14 +37,14 @@ Sistema gestionale per una compagnia di trasporti interregionali, che supporta l
 
 ---
 ### 🚀 Come eseguire il progetto
+3. Installare H2
 1. Installare ed aprire Eclipse 
 2. Creare una cartella di lavoro
-3. Installare H2
-4. Andare su Eclipse in
-5.  Properties
+4. Tasto destro sulla cartella di lavoro:
+    - Properties
     - Java Build Path
     - Libraries
     - Add External JARs...
     - Classpath
     - h2-2.1.214
-- Caricare il codice nella cartella si lavoro
+- Caricare il codice nella cartella di lavoro
