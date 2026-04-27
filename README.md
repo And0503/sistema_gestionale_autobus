@@ -16,7 +16,7 @@ Sistema gestionale per una compagnia di trasporti interregionali, che supporta l
 ### 🛠️ Tecnologie
 - Eclipse 2021-12 4.22.0
 - Java 1.8.0_311
-- H2 2.1.214 (embedded)
+- h2 2.1.214 (embedded)
 - Junit 4.13.2
 ---
 
@@ -37,7 +37,14 @@ Sistema gestionale per una compagnia di trasporti interregionali, che supporta l
 
 ---
 ### 🚀 Come eseguire il progetto
-1. Installare ed aprire Eclipse
+1. Installare ed aprire Eclipse 
 2. Creare una cartella di lavoro
 3. Installare H2
----
+4. Andare su Eclipse in
+5.  Properties
+    - Java Build Path
+    - Libraries
+    - Add External JARs...
+    - Classpath
+    - h2-2.1.214
+- Caricare il codice nella cartella si lavoro
